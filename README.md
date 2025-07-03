@@ -1,2 +1,2 @@
-# css-demo-psge
+# css-demo-page
 My first CSS demo page
